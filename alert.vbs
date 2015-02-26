@@ -1,0 +1,1 @@
+MsgBox "(究' - ')究舟 拋岩拋" & vbCrLf & vbCrLf & "房岸房 用( ' - '用)" & vbCrLf & vbCrLf & "(究～坏～)究舟 拋岩拋" & vbCrLf & vbCrLf & "take a rest  :)", vbSystemModal, "沉(^肋^)沅"
